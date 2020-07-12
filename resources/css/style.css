@@ -1,0 +1,66 @@
+body {
+    font-family: "Hind", sans-serif;
+}
+
+/* Header*/
+
+header {
+    height: 100px;
+    width: 100%;
+    align-items: center;
+}
+
+.logo {
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+}
+
+#logo-text {
+    display: inline-block;
+}
+
+#logo-text h1{
+    color: #646464;
+    font-weight: 900;
+    font-size: 38px;
+}
+
+#logo-text h1 span {
+    color: #a7a7a7;
+    font-weight: 400;
+}
+
+.logo img {
+    display: inline-block;
+    height: 64px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+nav {
+    text-align: right;
+    flex-grow: 1;
+}
+
+nav span {
+    display: inline-block;
+    margin: 10px;
+}
+
+a {
+    color: darkslategray;
+    font-size: 28px;
+}
+
+/* Start Here */
+
+/* Information */
+
+/* Courses */
+
+/* Thesis */
+
+/* Footer */
